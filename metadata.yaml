@@ -20,6 +20,9 @@ contributor:
     deathdate: 1928
     gutenberg_agent_id: '49320'
     url: http://www.gutenberg.org/2009/agents/49320
+covers:
+- cover_type: archival
+  image_path: 68876-h/images/cover.jpg
 creator:
   author:
     agent_name: Berkeley, Reginald
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54915
     wikipedia: https://en.wikipedia.org/wiki/Reginald_Berkeley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68876#Unparliamentary-papers-and-other-diversions
 gutenberg_issued: '2022-08-31'
 identifiers:
   gutenberg: '68876'
